@@ -1,0 +1,13 @@
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #c0392b;
+    color: #fff;
+	border: 2px solid #ddd;
+}
+
+#scrollUp:hover {
+	background-color: #2980b9;
+	transition: .5s;
+}
